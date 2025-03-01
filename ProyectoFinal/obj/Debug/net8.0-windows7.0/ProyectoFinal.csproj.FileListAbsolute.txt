@@ -1,0 +1,15 @@
+C:\Users\alegr\Desktop\Proyecto-Final-Programacion\ProyectoFinal\obj\Debug\net8.0-windows7.0\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\alegr\Desktop\Proyecto-Final-Programacion\ProyectoFinal\obj\Debug\net8.0-windows7.0\ProyectoFinalV1.FormAdmin.resources
+C:\Users\alegr\Desktop\Proyecto-Final-Programacion\ProyectoFinal\obj\Debug\net8.0-windows7.0\ProyectoFinalV1.FormCarrito.resources
+C:\Users\alegr\Desktop\Proyecto-Final-Programacion\ProyectoFinal\obj\Debug\net8.0-windows7.0\ProyectoFinalV1.FormGrafica.resources
+C:\Users\alegr\Desktop\Proyecto-Final-Programacion\ProyectoFinal\obj\Debug\net8.0-windows7.0\ProyectoFinalV1.FormLogIn.resources
+C:\Users\alegr\Desktop\Proyecto-Final-Programacion\ProyectoFinal\obj\Debug\net8.0-windows7.0\ProyectoFinalV1.FormPago.resources
+C:\Users\alegr\Desktop\Proyecto-Final-Programacion\ProyectoFinal\obj\Debug\net8.0-windows7.0\ProyectoFinalV1.FormPortada.resources
+C:\Users\alegr\Desktop\Proyecto-Final-Programacion\ProyectoFinal\obj\Debug\net8.0-windows7.0\ProyectoFinalV1.FormProductos.resources
+C:\Users\alegr\Desktop\Proyecto-Final-Programacion\ProyectoFinal\obj\Debug\net8.0-windows7.0\ProyectoFinal.Properties.Resources.resources
+C:\Users\alegr\Desktop\Proyecto-Final-Programacion\ProyectoFinal\obj\Debug\net8.0-windows7.0\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\alegr\Desktop\Proyecto-Final-Programacion\ProyectoFinal\obj\Debug\net8.0-windows7.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alegr\Desktop\Proyecto-Final-Programacion\ProyectoFinal\obj\Debug\net8.0-windows7.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\alegr\Desktop\Proyecto-Final-Programacion\ProyectoFinal\obj\Debug\net8.0-windows7.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\alegr\Desktop\Proyecto-Final-Programacion\ProyectoFinal\obj\Debug\net8.0-windows7.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\alegr\Desktop\Proyecto-Final-Programacion\ProyectoFinal\obj\Debug\net8.0-windows7.0\ProyectoFinal.sourcelink.json
